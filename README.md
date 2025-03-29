@@ -12,28 +12,29 @@
    Для работы с базой данных используется Entity Framework Core, который обеспечивает взаимодействие с SQL Server.
    - Для установки используйте команду:
      ```bash
-     dotnet add package Microsoft.EntityFrameworkCore
+     Install-Package Microsoft.EntityFrameworkCore
+
      ```
 
 3. **Microsoft.EntityFrameworkCore.SqlServer**  
    Для работы с SQL Server используем этот пакет.
    - Установка:
      ```bash
-     dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+     Install-Package Microsoft.EntityFrameworkCore.SqlServer
      ```
 
 4. **Microsoft.Extensions.DependencyInjection**  
    Этот пакет используется для внедрения зависимостей в проект.
    - Установка:
      ```bash
-     dotnet add package Microsoft.Extensions.DependencyInjection
+     Install-Package Microsoft.Extensions.DependencyInjection
      ```
 
 5. **Microsoft.EntityFrameworkCore.Tools**  
    Этот пакет необходим для использования команд в консоли для работы с миграциями.
    - Установка:
      ```bash
-     dotnet add package Microsoft.EntityFrameworkCore.Tools
+     Install-Package Microsoft.EntityFrameworkCore.Tools
      ```
 
 ## Установка зависимостей
