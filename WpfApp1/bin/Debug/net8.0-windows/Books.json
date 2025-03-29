@@ -1,0 +1,71 @@
+[
+  {
+    "Id": 1,
+    "Title": "Название Книги",
+    "AuthorId": 0,
+    "Author": {
+      "Id": 0,
+      "FirstName": "Иван",
+      "LastName": "Смоляков",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Country": "",
+      "Books": []
+    },
+    "GenreId": 0,
+    "Genre": {
+      "Id": 0,
+      "Name": "123",
+      "Description": "",
+      "Books": []
+    },
+    "PublishYear": 123,
+    "IBSN": "123",
+    "QuantityInStock": 123
+  },
+  {
+    "Id": 2,
+    "Title": "Название книги",
+    "AuthorId": 0,
+    "Author": {
+      "Id": 0,
+      "FirstName": "Имя",
+      "LastName": "Автора",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Country": "",
+      "Books": []
+    },
+    "GenreId": 0,
+    "Genre": {
+      "Id": 0,
+      "Name": "123",
+      "Description": "",
+      "Books": []
+    },
+    "PublishYear": 123,
+    "IBSN": "123",
+    "QuantityInStock": 123
+  },
+  {
+    "Id": 3,
+    "Title": "Книга1",
+    "AuthorId": 0,
+    "Author": {
+      "Id": 0,
+      "FirstName": "Автор1",
+      "LastName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Country": "",
+      "Books": []
+    },
+    "GenreId": 0,
+    "Genre": {
+      "Id": 0,
+      "Name": "Коммедия",
+      "Description": "",
+      "Books": []
+    },
+    "PublishYear": 1999,
+    "IBSN": "123971928514",
+    "QuantityInStock": 13
+  }
+]
