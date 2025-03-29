@@ -36,7 +36,7 @@
      ```bash
      Install-Package Microsoft.EntityFrameworkCore.Tools
      ```
-**Выполняем миграции**  
+   **Выполняем миграции**  
 
      ```bash
      Add-Migration InitialCreate
