@@ -36,7 +36,14 @@
      ```bash
      Install-Package Microsoft.EntityFrameworkCore.Tools
      ```
+**Выполняем миграции**  
 
+     ```bash
+     Add-Migration InitialCreate
+     ```
+     ```bash
+     Update-Database
+     ```
 ## Установка зависимостей
 
 1. Склонируйте репозиторий на вашу локальную машину:
